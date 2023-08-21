@@ -14,7 +14,7 @@
 - [🛠 Built With ](#-built-with-)
   - [📌 Tech Stack ](#-tech-stack-)
 - [🎲 Key Features ](#-key-features-)
-- [🚀 Live Demo ](#-live-demo-)
+- [🚀 Front end ](#-Front-End-)
 - [💻 Getting Started ](#-getting-started-)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
@@ -32,6 +32,10 @@
 # 💸 hello Rails APP <a name="about-project"></a>
 
 In this project I set up a "Hello world" project as one app with Webpack
+
+## 🚀 Front end <a name="live-demo"></a>
+
+- [Front end](https://github.com/obed300/hello-react-front-end)
 
 
 # 🛠 Built With <a name="built-with"></a>
